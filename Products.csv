@@ -1,0 +1,10 @@
+productId,price,quantity,name,description,type,other,other,other,other
+1,349.99,12,Dell-Inspiron 15,Great laptop for school,Laptop,8.5,intel i5,256,15.6
+2,29.99,14,UNCC shirt,Rock this shirt for home games!,Merch,M
+3,1099.0,50,Apple 2023 MacBook Air,Great laptop that will last all of college,Laptop,18.0,M2 Chip,256,15.3
+4,109.99,12,Calc 3,For all your calculus needs!,Textbook,523213958,John Doe,Joe Doe
+5,78.99,67,Physics 2,Pass all your classes with this textbook!,Textbook,254643523,Francis,Francis
+6,394.99,254,Asus chromebook Plus,Great budget laptop for notetaking,Laptop,10.0,intel i3,256,14.0
+7,200.0,24,intro to comp sci,Learn computer science through java,Textbook,3545632,mr comp sci,uncc
+8,79.88,24,Charlotte sweatshirt,When winter hits this sweatshirt is a must,Merch,L
+9,25.0,98,Charlotte Baseball cap,Keep the sun out of your eyes this baseball season!,Merch,S

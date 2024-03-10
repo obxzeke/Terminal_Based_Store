@@ -1,0 +1,5 @@
+userID,firstName,lastName,email,isAdmin,password
+1,admin,admin,admin@admin.com,true,admin
+2,Zeke,Marshall,zeke@gmail.com,false,zeke
+3,Test,Test,test@test.com,false,changepasswordtest
+4,matthew,stafford,newemail@test.com,false,stat
